@@ -1,0 +1,15 @@
+python:
+
+lista: =[1,2,...] puedes modificar sus elementos
+tupla: =(1,2,...) creas la lista pero despues no la puedes modificar
+
+ubicacion: cuenta desde 0: " unaL[0] " me muestra el primer objeto de la lista creada llamada unaL
+
+diccionario 
+# dict:
+unD={"nombre":"pedro", "edad":20}
+
+nombre
+unD["nombre"]
+'pedro'
+
